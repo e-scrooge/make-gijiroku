@@ -1,0 +1,17 @@
+/* App.css */
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .file-input {
+    margin-top: 20px;
+  }
+  
+  .file-content {
+    margin-top: 20px;
+    white-space: pre-wrap;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
